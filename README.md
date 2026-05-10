@@ -1,4 +1,3 @@
-[![My Blog](https://img.shields.io/badge/Blog-20C997?logo=Velog&logoColor=fff)](https://velog.io/@dnr6054)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/i4song/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=fff)](https://www.instagram.com/odo_orr/)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=Devpost&logoColor=fff)](https://devpost.com/yongwookLee)
