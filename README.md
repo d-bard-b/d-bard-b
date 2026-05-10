@@ -9,9 +9,6 @@
 ## Yongwook Lee
 - Inspiring others with perseverance and energy
 
-[<img width="560" height="482" alt="solvedac-naxi-v2 (1) 1" src="https://github.com/user-attachments/assets/53bd742b-6f99-4ecd-8933-16970f147154" />](https://solved.ac/profile/naxi)
-
-
 ## Career
 
 💙 **RideFlux - R&D Engineer @ Perception Unit (`2026.02` ~ )**
