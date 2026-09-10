@@ -26,6 +26,10 @@
 
 🎻 **SKKU Orchestra (`2019.03` ~)**
 
+🎻 **Jeju Nanum Orchestra (`2026.03` ~)**
+
+🎻 **Jeju in Philharmonia Orchestra (`2026.08` ~)**
+
 ## Awards
 
 ### International
